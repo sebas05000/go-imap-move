@@ -3,8 +3,8 @@ package move
 import (
 	"errors"
 
-	"github.com/emersion/go-imap"
-	"github.com/emersion/go-imap/server"
+	"github.com/sebas05000/go-imap"
+	"github.com/sebas05000/go-imap/server"
 )
 
 // A mailbox supporting the MOVE extension.

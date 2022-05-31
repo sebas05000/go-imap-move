@@ -1,9 +1,9 @@
 package move
 
 import (
-	"github.com/emersion/go-imap"
-	"github.com/emersion/go-imap/client"
-	"github.com/emersion/go-imap/commands"
+	"github.com/sebas05000/go-imap"
+	"github.com/sebas05000/go-imap/client"
+	"github.com/sebas05000/go-imap/commands"
 )
 
 // Client is a MOVE client.
